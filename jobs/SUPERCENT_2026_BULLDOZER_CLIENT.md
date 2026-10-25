@@ -129,3 +129,19 @@
 - [Supercent 공식 사이트/채용 페이지](https://supercent.io/)
 - 후보자 공개 프로필과 샘플 근거: [README](../README.md), [Architecture Notes](ARCHITECTURE.md), [Interview Notes](INTERVIEW_NOTES.md)
 
+
+
+## 8. 추가 발견 공고 — Bulldozer Master 클라이언트 개발자(계약직)
+
+- 공고: [공식 지원 페이지](https://supercent.career.greetinghr.com/ko/o/240691) (외부 조회에서 403 응답) · [공식 공고를 인용한 상세 요약](https://curvehop.net/jobs/greeting-supercent-240691?from=%2Fcompanies%2Fgreeting-supercent%3Frole%3D%23company-jobs)
+- 별도 게시 추적: [에브리커리어/캠퍼스픽](https://www.campuspick.com/job/view?id=414263)
+- 직무: [Bulldozer Master] 클라이언트 개발자(계약직)
+- 외부 게시 페이지에 표시된 접수 기간: 2026-10-23–2026-10-31. 지원 직전 공식 페이지에서 현재 접수 가능 여부를 재확인한다.
+- 고용 형태/기간: 계약직, 1년
+- 경력: 조회 가능한 요약에는 경력 연수가 확인되지 않음. “연차 무관”으로 해석하지 않는다.
+- 주요 업무/요건: Unity 기반 글로벌 모바일 게임 시스템·플레이 메커니즘, 클라이언트 구조, 모바일 성능, AI 도구 활용; 자료구조/알고리즘, 디버깅, 협업, 게임 관심
+- 우대: 클라이언트 아키텍처, MVC/MVVM/ECS 이해, AI 트렌드 활용, 대형 모바일 프로젝트/라이브 운영
+- 제출: 이력서, 포트폴리오, 자기소개서, 샘플 코드, AI 사용 예시
+- 후보자 적합도: AI 중심의 실제 iOS 출시 및 스토어 업데이트 워크플로우, 직접 설계한 퍼즐게임, CatchU 실서비스 운영, 메모리 이슈 해결, 팀 리드 경험을 연결하기 좋다. 5년 이상 정규직 공고보다 연차 조건이 덜 명확하지만, 이를 경력 무관으로 단정할 수 없다.
+- 확인할 리스크: 계약직 1년, 연봉 범위 미공개, 계약 갱신/정규직 전환 조건 확인 필요. 지원과 면접은 선택지를 얻는 단계이며, 수락 전 보상·갱신·전환·업무범위를 반드시 확인한다.
+- 지원별 준비 문서: [계약직 포지션 분석 및 제출 초안](materials/SUPERCENT_BULLDOZER_MASTER_CONTRACT.md)
